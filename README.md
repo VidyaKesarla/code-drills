@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
+| [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
