@@ -45,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
