@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -15,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
 | ------- |
