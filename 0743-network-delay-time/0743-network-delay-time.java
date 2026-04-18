@@ -63,6 +63,9 @@ class Solution {
         // The heap stores int[]{distance, node}, sorted by distance (min first).
         // This is the core of Dijkstra: always process the globally closest
         // unvisited node next — the greedy choice that makes it correct.
+        // If a[0] - b[0] is NEGATIVE → a comes first  (a is smaller)
+// If a[0] - b[0] is ZERO     → equal priority
+// If a[0] - b[0] is POSITIVE → b comes first  (b is smaller)
         PriorityQueue<int[]> heap = new PriorityQueue<>((a, b) -> a[0] - b[0]);
 
         // dist[i] = shortest known distance from k to node i.
