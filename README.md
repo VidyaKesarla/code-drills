@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -365,10 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Sorting
 |  |
 | ------- |
