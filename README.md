@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
