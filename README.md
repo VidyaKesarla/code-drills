@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Design
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Quickselect
 |  |
 | ------- |
