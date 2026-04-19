@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0253-meeting-rooms-ii) |
+| [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -324,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
