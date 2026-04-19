@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
