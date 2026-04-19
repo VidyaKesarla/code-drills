@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0015-3sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0015-3sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
