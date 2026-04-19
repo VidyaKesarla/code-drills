@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
