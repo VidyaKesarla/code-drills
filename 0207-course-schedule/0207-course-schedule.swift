@@ -19,7 +19,30 @@
  * | 5    | []    | 2              | 3              | Done!                     | --           |
  * * Result: completedCount (3) == numCourses (3) -> TRUE
  * -------------------------------------------------------------------
-
+/**
+ * WHY BRUTE FORCE FAILS:
+ * -------------------------------------------------------------------
+ * 1. EXPONENTIAL TIME COMPLEXITY: O(N! or 2^N)
+ * Brute force explores every possible path from every node. In a 
+ * highly connected graph, the number of redundant paths explodes, 
+ * leading to Time Limit Exceeded (TLE).
+ *
+ * 2. REDUNDANT WORK (NO MEMOIZATION):
+ * If Course A depends on Course B, and Course C also depends on 
+ * Course B, brute force will fully re-calculate the entire 
+ * dependency tree behind Course B twice. It lacks "state" to 
+ * remember if a node has already been verified as safe.
+ *
+ * 3. STACK OVERFLOW:
+ * Without cycle detection or a "visited" set, deep dependency 
+ * chains can quickly exceed the recursion limit (Stack Overflow), 
+ * especially in large inputs.
+ *
+ * 4. THE OPTIMIZED SOLUTION (Kahn's):
+ * Kahn's Algorithm (BFS) or DFS with Graph Coloring converts this 
+ * to O(V + E) by ensuring each node and edge is processed exactly 
+ * once, effectively "pruning" the search tree.
+ */
  */
 class Solution {
 /**
