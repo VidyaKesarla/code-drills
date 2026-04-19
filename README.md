@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0354-russian-doll-envelopes) |
+| [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -331,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
@@ -358,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 ## Shortest Path
 |  |
 | ------- |
