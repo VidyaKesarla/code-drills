@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
