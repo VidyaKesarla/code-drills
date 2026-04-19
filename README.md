@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
