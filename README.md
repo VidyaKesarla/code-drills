@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [0269-alien-dictionary](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
