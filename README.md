@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0208-implement-trie-prefix-tree) |
 | [0269-alien-dictionary](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0394-decode-string) |
@@ -445,12 +447,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
