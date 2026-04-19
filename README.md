@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
