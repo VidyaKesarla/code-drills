@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0684-redundant-connection) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0226-invert-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0684-redundant-connection) |
