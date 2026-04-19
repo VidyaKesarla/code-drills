@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
@@ -263,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
