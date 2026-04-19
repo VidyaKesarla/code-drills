@@ -159,4 +159,19 @@ class Solution {
  *
  * Province 1 → cities {0, 1}   (directly connected)
  * Province 2 → cities {2}      (isolated)
+ ┌──────────────────┬─────────────────────┬────────┬────────────┐
+│ dfs(city)        │ j                   │ value  │ action     │
+├──────────────────┼─────────────────────┼────────┼────────────┤
+│ dfs(0) → row 0   │ j=0 connect[0][0]   │   1    │ visited→SKIP│
+│                  │ j=1 connect[0][1]   │   1    │ dfs(1) ✅  │
+│                  │ j=2 connect[0][2]   │   0    │ SKIP       │
+├──────────────────┼─────────────────────┼────────┼────────────┤
+│ dfs(1) → row 1   │ j=0 connect[1][0]   │   1    │ visited→SKIP│
+│                  │ j=1 connect[1][1]   │   1    │ visited→SKIP│
+│                  │ j=2 connect[1][2]   │   0    │ SKIP       │
+├──────────────────┼─────────────────────┼────────┼────────────┤
+│ dfs(2) → row 2   │ j=0 connect[2][0]   │   0    │ SKIP       │
+│                  │ j=1 connect[2][1]   │   0    │ SKIP       │
+│                  │ j=2 connect[2][2]   │   1    │ visited→SKIP│
+└──────────────────┴─────────────────────┴────────┴────────────┘
  */
