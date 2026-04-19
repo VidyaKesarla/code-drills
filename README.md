@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -268,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0136-single-number) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
