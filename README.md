@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -335,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
