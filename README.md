@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
