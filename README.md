@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [0269-alien-dictionary](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
