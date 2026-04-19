@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0143-reorder-list) |
 | [0253-meeting-rooms-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -366,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
