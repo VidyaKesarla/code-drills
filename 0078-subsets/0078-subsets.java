@@ -21,3 +21,6 @@ class Solution {
 }
 
 // Imagine currentSubset is a physical basket.Level 0: Basket is []. Save it.Loop $i=0$: Put 1 in the basket. Basket is [1].Recurse to Level 1: Save [1].Loop $i=1$: Put 2 in. Basket is [1, 2].Recurse to Level 2: Save [1, 2].Loop $i=2$: Put 3 in. Basket is [1, 2, 3].Recurse: Save [1, 2, 3]. Loop $i=3$ (ends).Backtrack: Take 3 out. Basket is [1, 2]. Loop $i=2$ ends.Backtrack: Take 2 out. Basket is [1].Loop $i=2$: Put 3 in. Basket is [1, 3].Recurse: Save [1, 3]. Loop $i=3$ (ends).Backtrack: Take 3 out. Basket is [1]. Loop $i=2$ ends.Backtrack: Take 1 out. Basket is [].Loop $i=1$: Put 2 in. Basket is [2].(Process repeats for paths starting with 2...)
+
+
+//https://claude.ai/share/cb93c5be-9736-47d1-ae6f-d4f11dfc3d88
