@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0208-implement-trie-prefix-tree) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0143-reorder-list) |
 | [0253-meeting-rooms-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0283-move-zeroes) |
