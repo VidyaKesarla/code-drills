@@ -50,8 +50,8 @@ class Solution {
         return true;
     }
 }
-//tc:
-//sc:
+//tc:O(n)
+//sc: O(1)
 /*
  * APPROACH: Two-Pointer with One-Chance Deletion
  * * 1. Initialize left = 0, right = s.length - 1.
