@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
+| [1216-valid-palindrome-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1216-valid-palindrome-iii) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3481-apply-substitutions](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3481-apply-substitutions) |
 ## Sliding Window
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
+| [1216-valid-palindrome-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1216-valid-palindrome-iii) |
 ## Backtracking
 |  |
 | ------- |
