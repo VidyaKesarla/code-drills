@@ -130,41 +130,30 @@ class Solution {
  * | Permutations I   | O(N * N!)       | O(N)             | N! permutations * O(N) copy      |
  * | Permutations II  | O(N * N!)       | O(N^2)           | Stack depth * Local HashSet size |
  */
-// why does this take more space than permutations 1?
-
-//  The short answer is **the HashSet**. In Permutations I, we didn't need to "remember" anything at each level; we just swapped and moved on. In Permutations II, we need a "memory" to stop us from repeating the same mistakes.
-
-// Here is the breakdown of why that creates a larger space footprint:
-
-// ### 1. The "Local Memory" Cost
-// In **Permutations I**, your recursive function looks like this:
-// * `backtrack(index, nums)`
-// * *Space used:* Only the memory for the function call itself (stack frame).
-
-// In **Permutations II**, your function looks like this:
-// * `backtrack(index, nums)`
-// * `Set<Integer> usedInThisSlot = new HashSet<>();`
-// * *Space used:* The stack frame **PLUS** a brand new object in memory (the Set).
-
-// ### 2. Cumulative Space (The Stack)
-// Remember that recursion doesn't just run once; it stacks up. If $N=4$:
-// * **Level 0** is active and creates a Set (Size $\approx 4$).
-// * It calls **Level 1**, which stays active and creates another Set (Size $\approx 3$).
-// * It calls **Level 2**, which stays active and creates another Set (Size $\approx 2$).
-// * It calls **Level 3**, which stays active and creates another Set (Size $\approx 1$).
-
-// All these Sets exist **simultaneously** in your computer's memory while you are sitting at the base case. 
-
-// ### 3. The Math ($O(N)$ vs $O(N^2)$)
-// * **Permutations I:** You have $N$ levels of recursion. Each level uses constant $O(1)$ space for its variables. 
-//     * $N \times 1 = \mathbf{O(N)}$
-// * **Permutations II:** You have $N$ levels of recursion. But now, each level $i$ uses $O(N-i)$ space to store the unique numbers it has seen so far.
-//     * $N + (N-1) + (N-2) \dots + 1 = \frac{N(N+1)}{2} = \mathbf{O(N^2)}$
-
-// ### The "Trade-off"
-// You are trading **Space** ($O(N^2)$) for **Time**. 
-
-// By using that extra memory (the Set), you tell the computer: *"Hey, remember that I already tried putting a '1' in this slot. Don't waste time doing it again."* This prevents the algorithm from exploring thousands of redundant paths, making it much faster for inputs with many duplicates, even though it uses a bit more RAM.
-
-// **Is there a way to do it in $O(N)$ space?**
-// Yes! If you **sort** the array first and use the `boolean[] used` approach we mentioned earlier, you don't need a HashSet at every level. You only need one single boolean array of size $N$. This brings the space back down to $O(N)$, which is why many people prefer the "Sort + Boolean Array" method for Permutations II in tight memory environments.
+/**
+ * # WHY PERMUTATIONS II USES MORE SPACE THAN PERMUTATIONS I
+ * * The increase from O(N) to O(N^2) space complexity is due to the "Local Memory" 
+ * required to track duplicates at each level of the recursion.
+ * * ## 1. The HashSet Overhead
+ * - In **Permutations I**, each recursive call only stores a few primitive variables 
+ * (index, i). This is O(1) space per frame, leading to O(N) total stack space.
+ * - In **Permutations II**, every single recursive call initializes a `new HashSet<>()`. 
+ * This set stays in memory as long as that specific recursive branch is active.
+ * * ## 2. Cumulative Memory on the Stack
+ * Because recursion "stacks" frames, these HashSets exist simultaneously:
+ * - Level 0 (index 0) creates a Set to track values for the 1st slot (~N elements).
+ * - Level 1 (index 1) creates a Set to track values for the 2nd slot (~N-1 elements).
+ * - ...and so on, down to the base case.
+ * * ## 3. The Mathematical Divergence
+ * - **Permutations I**: (N levels) * (O(1) variables) = **O(N)**.
+ * - **Permutations II**: N + (N-1) + (N-2) + ... + 1 = N(N+1)/2 = **O(N^2)**.
+ * * ## 4. The Trade-off: Space vs. Time
+ * We are trading **Space** (O(N^2) memory) for **Time** (Efficiency). 
+ * By using the HashSet, we "remember" which values we've already tried at the current 
+ * position. This allows us to "prune" the recursion tree, preventing the algorithm 
+ * from wasting time exploring thousands of identical duplicate paths.
+ * * ## 5. Can we get back to O(N)?
+ * Yes. If memory is a constraint, we can **Sort** the array first and use a 
+ * single global `boolean[] used` array. This avoids creating HashSets at every 
+ * level and brings auxiliary space complexity back down to **O(N)**.
+ */
