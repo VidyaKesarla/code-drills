@@ -103,3 +103,30 @@ class Solution {
  * | 7. solve(2)      | 2     | 2 | 1   | swap(2, 2)   | [2, 1, 1]   | SNAPSHOT: [2, 1, 1]     |
  * | (Backtrack 6)    | 1     | 2 | 1   | SKIP         | [2, 1, 1]   | 1 already in Set1!      |
  */
+
+ /**
+ * # DERIVATION OF COMPLEXITY
+ * * ## 1. Time Complexity: O(N * N!)
+ * Time complexity is calculated as: (Total Recursive Nodes) x (Work per Node).
+ * * - **Total Nodes (N!)**: In a permutation tree, the number of leaf nodes (final permutations) 
+ * is exactly N! (N factorial). For the first slot we have N choices, the second N-1, etc.
+ * - **Work per Base Case (N)**: When we reach the base case (index == nums.length), we must 
+ * iterate through the array to convert it into a List: `for(int num : nums) { list.add(num); }`.
+ * This is an O(N) operation.
+ * - **Total**: Since we perform this O(N) copy for every one of the N! permutations, 
+ * the total time is O(N * N!).
+ * * ## 2. Space Complexity: O(N) or O(N^2)
+ * We focus on auxiliary space (extra memory used by the algorithm, excluding the output).
+ * * - **Recursion Stack (O(N))**: The maximum depth of the recursion tree is N. 
+ * The computer must store at most N function calls on the stack at any one time.
+ * - **HashSet Storage (O(N^2)) [Permutations II only]**: 
+ * In Permutations II, we create a HashSet at every level of the recursion.
+ * - Level 0: HashSet of size N
+ * - Level 1: HashSet of size N-1
+ * - Summing N + (N-1) + ... + 1 results in O(N^2) total space across the stack.
+ * * ## Summary Table
+ * | Problem          | Time Complexity | Space Complexity | Key Factor                       |
+ * |------------------|-----------------|------------------|----------------------------------|
+ * | Permutations I   | O(N * N!)       | O(N)             | N! permutations * O(N) copy      |
+ * | Permutations II  | O(N * N!)       | O(N^2)           | Stack depth * Local HashSet size |
+ */
