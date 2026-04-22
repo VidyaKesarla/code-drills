@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0118-pascals-triangle) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0417-pacific-atlantic-water-flow) |
