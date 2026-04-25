@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
+| [0489-robot-room-cleaner](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0489-robot-room-cleaner) |
 | [0494-target-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
@@ -525,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0912-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0489-robot-room-cleaner](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0489-robot-room-cleaner) |
 <!---LeetCode Topics End-->
