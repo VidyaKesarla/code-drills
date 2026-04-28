@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0075-sort-colors) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0407-trapping-rain-water-ii) |
