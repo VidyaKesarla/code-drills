@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0509-fibonacci-number) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3021-alice-and-bob-playing-flower-game) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0735-asteroid-collision) |
 ## Tree
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
