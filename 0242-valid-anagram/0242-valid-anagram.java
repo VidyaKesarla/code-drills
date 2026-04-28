@@ -21,6 +21,8 @@ Since we care only about the count of each character: we can use a hash map or f
 count occurrences of each character in s and increment those values
 subtract occurrences using t (Decrement)
 if all counts equal to zero at the end of the loop then return true
+
+In the following Frequency Array approach is generally preferred because it is highly efficient and avoids the overhead of a HashMap or the $O(n \log n)$ cost of sorting.
 */
 class Solution {
     public boolean isAnagram(String s, String t) {
@@ -42,3 +44,29 @@ class Solution {
 }
 //TC: O(N)
 //SC: o(1)
+
+// What if the inputs contain Unicode characters? (You’d need a Hash Map instead of a fixed size 26-count array).
+// How would you optimize this for extremely large strings that don't fit in memory? (External sorting or streaming character counts).
+// Can you solve this by only using one counter variable? (Increment for $s$, decrement for $t$, and check for any non-zero value).
+// if by "one counter variable" you mean a single integer, the answer is no for general cases. A single integer cannot track the frequency of 26 different characters simultaneously without running into "collisions" (where different combinations of letters produce the same sum).
+
+// However, if you mean using a single data structure (like one array or one hash map) instead of two, or if you are looking for a clever mathematical trick, here is how you can approach it:
+
+// 1. The "Single Array" Approach (Standard)
+// In an interview, this is usually what "one counter" refers to. You use one array to track the net balance of characters.
+
+// Increment for every character in s.
+
+// Decrement for every character in t.
+
+// If the balance is zero for all indices, they are anagrams.
+// The Prime Product Trick (Mathematical "One Variable")
+// This is a "brain teaser" solution. You can represent each letter (a-z) with a unique prime number.
+
+// a = 2, b = 3, c = 5, d = 7, and so on.
+
+// Calculate the product of the primes corresponding to the characters in s.
+
+// Calculate the product for t.
+
+// If productS == productT, they are anagrams.
