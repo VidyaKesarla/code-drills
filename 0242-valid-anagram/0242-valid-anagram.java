@@ -1,0 +1,44 @@
+/*
+an anagram is a word / phrase formed by rearranging letters of a different word or phrase. in short: same characters, same frequencies, but different order.
+
+*/
+//Clarifying questions i can ask the interviewer ie; a few edge cases:
+// is Silent and Listen considered to be anagrams? should case sensitivity be considered?
+//should we ignore spaces or special characters?
+//is the input restricted to only english letters and other emoticons/ smileys are discarded? never in input?
+
+
+/*
+Brute force: simplest solution is to sort the strings. if both the strings have the same set of characters then they are valid anagrams, ie; sort t and sort s:
+if they have the same then yeah they are anagrams. But time complexity for this is O(nlogn)=> which is quite high. Space complexity is:
+O(1) or O(n) depending on whether the sorting is in place and if the language allows mutable strings
+*/
+
+/*
+Since we care only about the count of each character: we can use a hash map or fixed size array.
+
+//one thing we can check is if the length of each string is the same. if they are not then we have to return false.
+count occurrences of each character in s and increment those values
+subtract occurrences using t (Decrement)
+if all counts equal to zero at the end of the loop then return true
+*/
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        if(s.length() != t.length()){
+            return false;
+        }
+        int charCounts [] = new int[26];
+        for(int i =0;i<s.length();i++){
+            charCounts[s.charAt(i) - 'a']++;
+            charCounts[t.charAt(i) - 'a']--;
+        }
+        for (int count: charCounts) {
+        if (count != 0) {
+            return false;
+        }
+        }
+        return true;
+    }
+}
+//TC: O(N)
+//SC: o(1)
