@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
+| [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
 | [3481-apply-substitutions](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3481-apply-substitutions) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
+| [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1143-longest-common-subsequence) |
 | [1216-valid-palindrome-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1216-valid-palindrome-iii) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0354-russian-doll-envelopes) |
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
 | ------- |
