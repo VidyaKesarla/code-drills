@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0322-coin-change) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0912-sort-an-array) |
 ## Prefix Sum
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0307-range-sum-query-mutable) |
 | [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
@@ -570,10 +573,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0307-range-sum-query-mutable) |
 ## Sweep Line
 |  |
 | ------- |
