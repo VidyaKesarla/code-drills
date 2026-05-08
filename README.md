@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0097-interleaving-string) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0407-trapping-rain-water-ii) |
