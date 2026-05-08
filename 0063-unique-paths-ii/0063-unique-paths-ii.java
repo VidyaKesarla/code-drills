@@ -29,6 +29,7 @@ class Solution {
         }
 
         // Starting from cell(1,1) fill up the values
+        //check the top cell and the previous cell
         // No. of ways of reaching cell[i][j] = cell[i - 1][j] + cell[i][j - 1]
         // i.e. From above and left.
         for (int i = 1; i < R; i++) {
