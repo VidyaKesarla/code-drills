@@ -11,7 +11,6 @@ class Solution {
            if (leftSum == sum - leftSum - nums[i]) {
                 return i;
             }
-
             leftSum += nums[i]; 
         }
         return -1;
