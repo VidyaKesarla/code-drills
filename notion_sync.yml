@@ -1,0 +1,122 @@
+name: Sync GitHub Submissions to Structured Notion
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests notion-client
+
+      - name: Run Sync Script
+        env:
+          NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
+          NOTION_DB_ID: ${{ secrets.NOTION_DB_ID }}
+        run: |
+          python -c '
+          import os
+          import sys
+          import json
+          import requests
+          import subprocess
+          from notion_client import Client
+
+          notion = Client(auth=os.environ["NOTION_SECRET"])
+          db_id = os.environ["NOTION_DB_ID"]
+
+          # Identify added or modified files in the latest commit
+          try:
+              changed_files = subprocess.check_output(["git", "diff", "--name-only", "HEAD~1", "HEAD"]).decode("utf-8").splitlines()
+          except Exception:
+              print("Initial commit or single commit context. Scanning all files.")
+              changed_files = [os.path.join(r, f) for r, d, fs in os.walk(".") for f in fs]
+
+          supported_extensions = {".py": "python", ".swift": "swift", ".cpp": "c++", ".java": "java", ".js": "javascript", ".ts": "typescript"}
+
+          def fetch_leetcode_meta(slug):
+              url = "https://leetcode.com/graphql"
+              query = """
+              query questionData($titleSlug: String!) {
+                question(titleSlug: $titleSlug) {
+                  title
+                  difficulty
+                  topicTags { name }
+                }
+              }
+              """
+              try:
+                  r = requests.post(url, json={"query": query, "variables": {"titleSlug": slug}}, timeout=10)
+                  if r.status_code == 200:
+                      return r.json().get("data", {}).get("question", {})
+              except:
+                  return None
+              return None
+
+          def page_exists(title):
+              results = notion.databases.query(database_id=db_id, filter={"property": "Title", "title": {"equals": title}}).get("results", [])
+              return len(results) > 0
+
+          for file_path in changed_files:
+              ext = os.path.splitext(file_path)[1].lower()
+              if ext not in supported_extensions or ".github" in file_path:
+                  continue
+              
+              filename = os.path.basename(file_path)
+              # Clean slug extraction assuming common repo structures like "0001-two-sum.py" or "two-sum.py"
+              slug = os.path.splitext(filename)[0].split("-", 1)[-1] if "-" in filename else os.path.splitext(filename)[0]
+              
+              with open(file_path, "r") as f:
+                  code_content = f.read()
+
+              meta = fetch_leetcode_meta(slug)
+              title = meta.get("title", slug.replace("-", " ").title()) if meta else slug.replace("-", " ").title()
+              difficulty = meta.get("difficulty", "Unknown")
+              tags = ", ".join([t["name"] for t in meta.get("topicTags", [])]) if meta else "Algorithms"
+
+              if page_exists(title):
+                  print(f"Skipping {title} - already exists in Notion.")
+                  continue
+
+              print(f"Syncing {title} to Notion database...")
+
+              # Map directly into your custom 5-column matrix
+              properties = {
+                  "Title": {"title": [{"text": {"content": title}}]},
+                  "Difficulty": {"select": {"name": difficulty}},
+                  "Input Data Structure": {"rich_text": [{"text": {"content": tags}}]},
+                  "Algorithm": {"rich_text": [{"text": {"content": "Pending Review 📝"}}]},
+                  "Optimization": {"rich_text": [{"text": {"content": "Pending Review 📝"}}]},
+                  "Rationale / Pattern": {"rich_text": [{"text": {"content": "Pending Review 📝"}}]},
+                  "URL": {"url": f"https://leetcode.com/problems/{slug}/"}
+              }
+
+              children = [
+                  {
+                      "object": "block",
+                      "type": "code",
+                      "code": {
+                          "rich_text": [{"type": "text", "text": {"content": code_content[:1900]}}],
+                          "language": supported_extensions[ext]
+                      }
+                  }
+              ]
+
+              notion.pages.create(parent={"database_id": db_id}, properties=properties, children=children)
+          print("Sync task completed successfully.")
+          '
