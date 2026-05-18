@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
 | [3481-apply-substitutions](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3481-apply-substitutions) |
 ## String
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0912-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
