@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0253-meeting-rooms-ii) |
 | [0523-continuous-subarray-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
