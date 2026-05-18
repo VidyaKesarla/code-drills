@@ -70,6 +70,61 @@ class Solution {
             : shortestSubarrayLength;
     }
 }
+/*
+ * DRY RUN: nums = [1, 2, 3], k = 3
+ * Expected Output: 1  (subarray [3], length 1)
+ *
+ * Initial state:
+ *   shortestSubarrayLength = Integer.MAX_VALUE
+ *   cumulativeSum          = 0
+ *   prefixSumHeap          = []
+ *
+ * ─────────────────────────────────────────────────────────────────
+ * i = 0, nums[0] = 1
+ *   cumulativeSum = 0 + 1 = 1
+ *   1 >= k(3)?  No  → skip length update
+ *   heap empty  → skip while loop
+ *   heap.offer(1, 0) → heap = [(1,0)]
+ *
+ * ─────────────────────────────────────────────────────────────────
+ * i = 1, nums[1] = 2
+ *   cumulativeSum = 1 + 2 = 3
+ *   3 >= k(3)?  Yes → result = min(MAX, 1+1) = 2  ← subarray [1,2]
+ *   heap.peek() = (1,0) → 3 - 1 = 2 >= 3?  No  → stop while
+ *   heap.offer(3, 1) → heap = [(1,0), (3,1)]
+ *
+ * ─────────────────────────────────────────────────────────────────
+ * i = 2, nums[2] = 3
+ *   cumulativeSum = 3 + 3 = 6
+ *   6 >= k(3)?  Yes → result = min(2, 2+1) = 2  (no improvement)
+ *
+ *   While loop iteration 1:
+ *     heap.peek() = (1,0) → 6 - 1 = 5 >= 3?  Yes
+ *     result = min(2, 2 - 0) = 2  (no improvement)
+ *     heap.poll() → heap = [(3,1)]
+ *
+ *   While loop iteration 2:
+ *     heap.peek() = (3,1) → 6 - 3 = 3 >= 3?  Yes
+ *     result = min(2, 2 - 1) = 1  ← subarray [3], length 1 ✓
+ *     heap.poll() → heap = [(6,2)]  (after offer below)
+ *
+ *   heap.peek() = (6,2) → 6 - 6 = 0 >= 3?  No  → stop while
+ *   heap.offer(6, 2) → heap = [(6,2)]
+ *
+ * ─────────────────────────────────────────────────────────────────
+ * Loop ends.
+ * shortestSubarrayLength = 1  (not MAX_VALUE) → return 1  ✓
+ *
+ * ─────────────────────────────────────────────────────────────────
+ * WHY MIN-HEAP?
+ *   Prefix sums are NOT monotonically increasing when negatives exist.
+ *   The min-heap always surfaces the smallest prefix sum, maximising
+ *   (cumulativeSum - heapTop) so we detect valid subarrays earliest.
+ *
+ * HEAP ENTRY FORMAT: (prefixSum, index)
+ *   Subarray sum  = cumulativeSum[i] - prefixSum[j]
+ *   Subarray len  = i - j
+ */
 
 
 
