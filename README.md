@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0523-continuous-subarray-sum) |
+| [0976-largest-perimeter-triangle](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0976-largest-perimeter-triangle) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3021-alice-and-bob-playing-flower-game) |
 ## Recursion
 |  |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0976-largest-perimeter-triangle](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0680-valid-palindrome-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0976-largest-perimeter-triangle) |
 ## Topological Sort
 |  |
 | ------- |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0976-largest-perimeter-triangle) |
 ## Merge Sort
 |  |
 | ------- |
