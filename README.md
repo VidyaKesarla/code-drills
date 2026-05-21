@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0509-fibonacci-number) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0354-russian-doll-envelopes) |
 | [0407-trapping-rain-water-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0875-koko-eating-bananas) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0253-meeting-rooms-ii) |
+| [0410-split-array-largest-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0560-subarray-sum-equals-k) |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0253-meeting-rooms-ii) |
+| [0410-split-array-largest-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
