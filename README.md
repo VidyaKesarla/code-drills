@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1200-minimum-absolute-difference) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
