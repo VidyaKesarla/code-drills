@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0046-permutations) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0042-trapping-rain-water) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
