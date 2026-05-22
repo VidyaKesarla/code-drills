@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
 | [0489-robot-room-cleaner](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0489-robot-room-cleaner) |
 | [0494-target-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0494-target-sum) |
+| [1219-path-with-maximum-gold](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1219-path-with-maximum-gold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1200-minimum-absolute-difference) |
+| [1219-path-with-maximum-gold](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1219-path-with-maximum-gold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
+| [1219-path-with-maximum-gold](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1219-path-with-maximum-gold) |
 ## Greedy
 |  |
 | ------- |
