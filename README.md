@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
 | [0489-robot-room-cleaner](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0489-robot-room-cleaner) |
 | [0494-target-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0494-target-sum) |
+| [0980-unique-paths-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1219-path-with-maximum-gold) |
 ## Two Pointers
 |  |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
+| [0980-unique-paths-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1219-path-with-maximum-gold) |
 ## Greedy
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
+| [0980-unique-paths-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0980-unique-paths-iii) |
 ## Trie
 |  |
 | ------- |
