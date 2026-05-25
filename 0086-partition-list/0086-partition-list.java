@@ -10,6 +10,9 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
+        //before and after are the two pointers used to create the two list 
+        //before_head and after_head are used to save the heads of the two lists
+        //all of these are initialised with dummy nodes created
         ListNode before_head = new ListNode(0);
         ListNode after_head = new ListNode(0);
         ListNode before = before_head;
@@ -28,8 +31,9 @@ class Solution {
             //move ahead in original list
             head = head.next;
         }
+        //last node of the after list would also be the ending node of the reformed list
          after.next = null;
-
+    //combine these two lists 
     before.next = after_head.next;
     return before_head.next;
     }
