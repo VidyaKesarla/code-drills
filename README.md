@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0901-online-stock-span) |
 ## Combinatorics
 |  |
 | ------- |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0307-range-sum-query-mutable) |
+| [0901-online-stock-span](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0901-online-stock-span) |
 ## Bucket Sort
 |  |
 | ------- |
