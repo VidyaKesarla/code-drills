@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0113-path-sum-ii) |
 | [0489-robot-room-cleaner](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0489-robot-room-cleaner) |
 | [0494-target-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0980-unique-paths-iii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0200-number-of-islands) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0230-kth-smallest-element-in-a-bst) |
