@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0207-course-schedule) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
