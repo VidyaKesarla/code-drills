@@ -74,3 +74,112 @@ class Solution {
 
 
 }
+
+/*
+--------------------------------------------------------------------------------
+APPROACH ANALYSIS: "BRUTE FORCE" INDEX SIMULATION VS. STANDARD BFS
+--------------------------------------------------------------------------------
+The approach implemented above uses the 0-based array representation property of 
+binary trees ($2 \cdot index + 1$ for left child, $2 \cdot index + 2$ for right child) 
+coupled with a pre-calculation of total nodes ($n$). 
+
+While this approach is conceptually elegant and runs in 0ms (beats 100%), it exhibits 
+distinct trade-offs compared to the standard level-order traversal (BFS):
+
+1. Integer Overflow Vulnerability (The biggest trade-off):
+   - In a skewed tree (e.g., a straight line of 32 left or right children), the index 
+     grows exponentially ($2^i$). 
+   - Even though $n$ might only be 32, the `index` variable will quickly exceed 
+     Integer.MAX_VALUE ($2^{31}-1$), leading to arithmetic overflow and incorrect 
+     negative index evaluations.
+   - The standard BFS queue-based approach avoids indexing altogether and is completely 
+     immune to overflow, making it production-safe for highly deep or skewed trees.
+
+2. Multiple Passes:
+   - This approach requires two full traversals: one to count the nodes via `countNodes` 
+     and another to validate the indices via `dfs`. 
+   - A traditional BFS checks completeness in a single pass, stopping the moment a 
+     `null` node is pulled out of the queue before non-null nodes.
+
+--------------------------------------------------------------------------------
+DRY RUN
+--------------------------------------------------------------------------------
+Let's dry run this code with a valid Complete Binary Tree:
+       1
+      / \
+     2   3
+    /
+   4
+
+Step 1: countNodes(root)
+- Node 1: 1 + count(2) + count(3)
+- Node 2: 1 + count(4) + count(null) -> 1 + 1 + 0 = 2
+- Node 4: 1 + count(null) + count(null) -> 1 + 0 + 0 = 1
+- Node 3: 1 + count(null) + count(null) -> 1 + 0 + 0 = 1
+Total Nodes (n) = 1 + 2 + 1 = 4.
+
+Step 2: dfs(root, index=0, n=4)
+- dfs(Node 1, index=0):
+  - Checks: 0 >= 4 (False). Valid.
+  - Moves to Left: dfs(Node 2, index = 2*0 + 1 = 1, n=4)
+  - Moves to Right: dfs(Node 3, index = 2*0 + 2 = 2, n=4)
+
+- dfs(Node 2, index=1):
+  - Checks: 1 >= 4 (False). Valid.
+  - Moves to Left: dfs(Node 4, index = 2*1 + 1 = 3, n=4)
+  - Moves to Right: dfs(null, index = 2*1 + 2 = 4, n=4) -> Returns True immediately.
+
+- dfs(Node 4, index=3):
+  - Checks: 3 >= 4 (False). Valid.
+  - Both children are null -> Returns True && True = True.
+
+- dfs(Node 3, index=2):
+  - Checks: 2 >= 4 (False). Valid.
+  - Both children are null -> Returns True && True = True.
+
+All recursive calls resolve to 'True'. The tree is complete!
+
+--------------------------------------------------------------------------------
+COMPLEXITY ANALYSIS
+--------------------------------------------------------------------------------
+Time Complexity: $O(N)$
+- `countNodes(root)` visits every single node exactly once $\rightarrow O(N)$.
+- `dfs(root, ...)` visits every node at most once because it returns false early 
+  if an out-of-bounds index is detected $\rightarrow O(N)$.
+- Total Time Complexity = $O(N) + O(N) = O(N)$, where $N$ is the number of nodes.
+
+Space Complexity: $O(H)$
+- No extra heap memory data structures (like Queues or Lists) are used.
+- However, space is consumed by the implicit system call stack during recursion.
+- In the worst-case scenario (a highly skewed tree), the recursion stack can go 
+  as deep as the height of the tree ($H$).
+- For a balanced tree, $H = \log N$. For a skewed tree, $H = N$.
+- Total Space Complexity = $O(H)$ framework stack overhead.
+*/
+
+/*
+--------------------------------------------------------------------------------
+DFS APPROACH BREAKDOWN
+--------------------------------------------------------------------------------
+This solution utilizes a Depth-First Search (DFS) traversal to validate the tree's 
+completeness by leveraging the 0-indexed array property of binary trees.
+
+1. How it works:
+   - First, a DFS helper function (`countNodes`) counts the total number of nodes ($n$).
+   - Second, a main DFS function (`dfs`) traverses the tree starting from the root at index 0.
+   - For any given node at `index`, its left child is assigned `2 * index + 1` and its 
+     right child is assigned `2 * index + 2`.
+   - If the tree is complete, the assigned index of every single valid node must be 
+     strictly less than the total count of nodes ($index < n$). If we encounter a node 
+     where `index >= n`, it means a gap exists earlier in the level-order sequence, 
+     making the tree incomplete.
+
+2. Trade-offs of this DFS simulation:
+   - Risk of Integer Overflow: Because indices grow exponentially ($2^i$), a highly 
+     skewed or deep tree (e.g., a straight line of 32 nodes) will cause the `index` variable 
+     to exceed `Integer.MAX_VALUE` ($2^{31} - 1$). This causes arithmetic overflow into negative 
+     numbers, breaking the logic. Standard BFS avoids indices completely and is immune to this.
+   - Two-Pass Requirement: This approach requires two full traversals (one to count nodes, 
+     one to validate positions), whereas a standard level-order BFS can determine completeness 
+     in a single pass.
+*/
