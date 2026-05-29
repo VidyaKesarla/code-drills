@@ -183,3 +183,67 @@ completeness by leveraging the 0-indexed array property of binary trees.
      one to validate positions), whereas a standard level-order BFS can determine completeness 
      in a single pass.
 */
+
+/*
+--------------------------------------------------------------------------------
+STANDARD BFS (LEVEL-ORDER) DRY RUN
+--------------------------------------------------------------------------------
+The standard BFS approach processes nodes level-by-level from left to right using a 
+Queue. The fundamental rule for a complete binary tree in BFS is:
+Once a NULL node is encountered, we must NOT see any valid non-null nodes after it.
+
+Let's dry run this approach using the same valid complete binary tree:
+       1
+      / \
+     2   3
+    /
+   4
+
+Initialization:
+- Queue = [1]
+- seenNull = false
+
+Iteration 1:
+- Dequeue node: 1
+- Node 1 is not null. 
+  - Have we seen a null before? No (`seenNull` is false). Valid.
+  - Push children to Queue (including nulls): Queue = [2, 3]
+
+Iteration 2:
+- Dequeue node: 2
+- Node 2 is not null.
+  - Have we seen a null before? No. Valid.
+  - Push children to Queue: Queue = [3, 4, null]
+
+Iteration 3:
+- Dequeue node: 3
+- Node 3 is not null.
+  - Have we seen a null before? No. Valid.
+  - Push children to Queue: Queue = [4, null, null, null]
+
+Iteration 4:
+- Dequeue node: 4
+- Node 4 is not null.
+  - Have we seen a null before? No. Valid.
+  - Push children to Queue: Queue = [null, null, null, null, null]
+
+Iteration 5:
+- Dequeue node: null
+- Node is null! We flip our flag: `seenNull = true`.
+- Queue = [null, null, null, null]
+
+Remaining Iterations:
+- The queue only contains `null` elements now. 
+- As each `null` is popped, the loop continues safely without triggering a failure because 
+  no non-null node ever appears after `seenNull` became true.
+
+The loop terminates cleanly, returning True. The tree is complete!
+
+--------------------------------------------------------------------------------
+WHY BFS IS BETTER FOR PRODUCTION
+--------------------------------------------------------------------------------
+1. Single Pass: It checks completeness on the fly without needing to calculate the 
+   total node count beforehand.
+2. Memory Safety: It completely eliminates the integer overflow risk present in the 
+   $2 \cdot index + 1$ formula, making it safe for trees of any depth or skewness.
+*/
