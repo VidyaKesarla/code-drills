@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0416-partition-equal-subset-sum) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0542-01-matrix) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0354-russian-doll-envelopes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
