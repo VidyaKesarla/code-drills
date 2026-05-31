@@ -54,3 +54,45 @@ class Solution {
 }
 //tc: O(nlogn)
 //sc: O(n)
+
+// ### 💡 Intuition & Technical Breakdown
+
+// This solution uses a **sorting-heavy** approach. By sorting the characters initially, identical characters are clumped together. This allows us to easily group them into distinct string segments and then perform a secondary sort on those segments based on their length (frequency).
+
+// ---
+
+// ### ⏱️ Complexity Analysis
+
+// * **Time Complexity (TC):** $O(N \log N)$
+//   * `Arrays.sort(chars)` takes $O(N \log N)$ where $N$ is the length of the string.
+//   * Grouping the characters into `charStrings` takes a single linear pass: $O(N)$.
+//   * `Collections.sort(charStrings)` takes $O(K \log K)$ where $K$ is the number of unique characters. In the worst-case scenario where all characters are unique ($K = N$), this step takes $O(N \log N)$.
+//   * Reassembling the final string takes $O(N)$.
+
+// * **Space Complexity (SC):** $O(N)$
+//   * Storing the characters in the `chars` array requires $O(N)$ space.
+//   * The `charStrings` list and `StringBuilder` allocations scale linearly with the input length, requiring $O(N)$ auxiliary space.
+
+// ---
+
+// ### 🔍 Detailed Dry Run (`s = "tree"`)
+
+// 1. **Initial Sort:** * `chars` array becomes `['e', 'e', 'r', 't']`.
+
+// 2. **Grouping Pass:**
+//    * `i = 1`: `chars[1]` ('e') matches `chars[0]`. `currentString` becomes `"ee"`.
+//    * `i = 2`: `chars[2]` ('r') does not match. `"ee"` is added to `charStrings`. `currentString` resets to `"r"`.
+//    * `i = 3`: `chars[3]` ('t') does not match. `"r"` is added to `charStrings`. `currentString` resets to `"t"`.
+//    * **Post-loop:** The remaining `"t"` is appended.
+//    * **Resulting List:** `["ee", "r", "t"]`
+
+// 3. **Custom Sort & Assembly:**
+//    * Sorting the list by string length keeps `"ee"` at the front: `["ee", "r", "t"]`.
+//    * `StringBuilder` stitches them back together.
+//    * **Output:** `"eert"` (or `"eetr"`)
+
+// ---
+
+// ### ⚖️ Brute Force Trade-offs
+// * **Pros:** Extremely intuitive to implement, avoids map/frequency-array overhead, and ensures stable clumping of identical elements early on.
+// * **Cons:** Dual sorting passes introduce an $O(N \log N)$ bottleneck. While efficient enough to pass easily, it can be optimized to optimal $O(N)$ linear time using a frequency bucket array.
