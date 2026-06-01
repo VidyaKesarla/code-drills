@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
+| [1054-distant-barcodes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1054-distant-barcodes) |
 | [3481-apply-substitutions](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3481-apply-substitutions) |
 ## String
 |  |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1054-distant-barcodes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1054-distant-barcodes) |
 | [1095-find-in-mountain-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1200-minimum-absolute-difference) |
 | [1219-path-with-maximum-gold](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1219-path-with-maximum-gold) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0680-valid-palindrome-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0976-largest-perimeter-triangle) |
+| [1054-distant-barcodes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1054-distant-barcodes) |
 ## Topological Sort
 |  |
 | ------- |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0912-sort-an-array) |
+| [1054-distant-barcodes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1054-distant-barcodes) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Shortest Path
 |  |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0977-squares-of-a-sorted-array) |
+| [1054-distant-barcodes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1054-distant-barcodes) |
 | [1200-minimum-absolute-difference](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1200-minimum-absolute-difference) |
 | [1552-magnetic-force-between-two-balls](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1552-magnetic-force-between-two-balls) |
 ## Merge Sort
@@ -667,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
+| [1054-distant-barcodes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1054-distant-barcodes) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Quickselect
 |  |
