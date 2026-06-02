@@ -3,6 +3,38 @@
 // - Modify the function or parameters if needed.
 // - Signatures function may vary, adjust parameters if required.
 /*
+/*
+=======================================================================================
+INTUITION: THINKING IN REVERSE (SLIDING WINDOW)
+=======================================================================================
+The problem asks us to remove elements from the EDGES (left and right) to make 
+their sum exactly equal to 'x', while MINIMIZING the number of operations.
+
+Instead of figuring out which combination of prefix and suffix to remove, we can 
+flip the problem on its head:
+
+1. What's left over?
+   If we remove a set of elements from the edges that sum up to 'x', the remaining 
+   elements in the MIDDLE must form a contiguous subarray. 
+   
+2. What should its sum be?
+   The sum of this middle subarray must be exactly: 
+   target = (Total Sum of Array) - x
+
+3. How do we minimize operations?
+   To MINIMIZE the elements removed from the edges, we must MAXIMIZE the number 
+   of elements we keep in the middle.
+
+Core Transformation:
+"Find the MINIMUM number of edge elements that sum to X" 
+                      👇 becomes 👇
+"Find the MAXIMUM length of a contiguous middle subarray that sums to (Total - X)"
+
+Why this is optimal:
+Finding a maximum length subarray with a target sum (where all elements are positive) 
+is a classic Sliding Window (Two Pointer) problem. We can solve it in a single linear 
+pass O(n) time and O(1) space, avoiding expensive recursion or deep DP tables.
+
 =======================================================================================
 DRY RUN EXECUTION (Sliding Window Approach)
 =======================================================================================
