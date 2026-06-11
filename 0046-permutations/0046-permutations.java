@@ -78,28 +78,40 @@ class Solution {
 
 /**
  * # RECURSION STACK & INDEX TRACE (nums = [1, 2, 3])
- * * | Call Stack       | index | i | Action       | Array State | Event/Note          |
- * |------------------|-------|---|--------------|-------------|---------------------|
- * | 1. solve(0)      | 0     | 0 | swap(0, 0)   | [1, 2, 3]   | Fixed '1' at pos 0  |
- * | 2. solve(1)      | 1     | 1 | swap(1, 1)   | [1, 2, 3]   | Fixed '2' at pos 1  |
- * | 3. solve(2)      | 2     | 2 | swap(2, 2)   | [1, 2, 3]   | Fixed '3' at pos 2  |
- * | 4. solve(3)      | 3     | - | Base Case    | [1, 2, 3]   | SNAPSHOT: [1, 2, 3] |
- * | (Backtrack 2)    | 1     | 2 | swap(2, 1)   | [1, 3, 2]   | Swap '3' into pos 1 |
- * | 5. solve(2)      | 2     | 2 | swap(2, 2)   | [1, 3, 2]   | Fixed '2' at pos 2  |
- * | 6. solve(3)      | 3     | - | Base Case    | [1, 3, 2]   | SNAPSHOT: [1, 3, 2] |
- * | (Backtrack 0)    | 0     | 1 | swap(1, 0)   | [2, 1, 3]   | Swap '2' into pos 0 |
- * | 7. solve(1)      | 1     | 1 | swap(1, 1)   | [2, 1, 3]   | Fixed '1' at pos 1  |
- * | 8. solve(2)      | 2     | 2 | swap(2, 2)   | [2, 1, 3]   | Fixed '3' at pos 2  |
- * | 9. solve(3)      | 3     | - | Base Case    | [2, 1, 3]   | SNAPSHOT: [2, 1, 3] |
- * | (Backtrack 7)    | 1     | 2 | swap(2, 1)   | [2, 3, 1]   | Swap '3' into pos 1 |
- * | 10. solve(2)     | 2     | 2 | swap(2, 2)   | [2, 3, 1]   | Fixed '1' at pos 2  |
- * | 11. solve(3)     | 3     | - | Base Case    | [2, 3, 1]   | SNAPSHOT: [2, 3, 1] |
- * | (Backtrack 0)    | 0     | 2 | swap(2, 0)   | [3, 2, 1]   | Swap '3' into pos 0 |
- * | 12. solve(1)     | 1     | 1 | swap(1, 1)   | [3, 2, 1]   | Fixed '2' at pos 1  |
- * | 13. solve(2)     | 2     | 2 | swap(2, 2)   | [3, 2, 1]   | Fixed '1' at pos 2  |
- * | 14. solve(3)     | 3     | - | Base Case    | [3, 2, 1]   | SNAPSHOT: [3, 2, 1] |
- * | (Backtrack 12)   | 1     | 2 | swap(2, 1)   | [3, 1, 2]   | Swap '1' into pos 1 |
- * | 15. solve(2)     | 2     | 2 | swap(2, 2)   | [3, 1, 2]   | Fixed '2' at pos 2  |
- * | 16. solve(3)     | 3     | - | Base Case    | [3, 1, 2]   | SNAPSHOT: [3, 1, 2] |
+ *
+ * | Call Stack        | index | i | Action       | Array State | Event/Note           |
+ * |-------------------|-------|---|--------------|-------------|----------------------|
+ * | 1. backtrack(0)   | 0     | 0 | swap(0, 0)   | [1, 2, 3]   | Fix '1' at pos 0     |
+ * | 2. backtrack(1)   | 1     | 1 | swap(1, 1)   | [1, 2, 3]   | Fix '2' at pos 1     |
+ * | 3. backtrack(2)   | 2     | 2 | swap(2, 2)   | [1, 2, 3]   | Fix '3' at pos 2     |
+ * | 4. backtrack(3)   | 3     | - | Base case    | [1, 2, 3]   | SNAPSHOT: [1, 2, 3]  |
+ * | (Backtrack to 2)  | 2     | - | swap(2, 2)   | [1, 2, 3]   | Undo — no change     |
+ * | (Backtrack to 1)  | 1     | 2 | swap(2, 1)   | [1, 3, 2]   | Swap '3' into pos 1  |
+ * | 5. backtrack(2)   | 2     | 2 | swap(2, 2)   | [1, 3, 2]   | Fix '2' at pos 2     |
+ * | 6. backtrack(3)   | 3     | - | Base case    | [1, 3, 2]   | SNAPSHOT: [1, 3, 2]  |
+ * | (Backtrack to 2)  | 2     | - | swap(2, 2)   | [1, 3, 2]   | Undo — no change     |
+ * | (Backtrack to 1)  | 1     | - | swap(2, 1)   | [1, 2, 3]   | Undo — restore       |
+ * | (Backtrack to 0)  | 0     | 1 | swap(1, 0)   | [2, 1, 3]   | Swap '2' into pos 0  |
+ * | 7. backtrack(1)   | 1     | 1 | swap(1, 1)   | [2, 1, 3]   | Fix '1' at pos 1     |
+ * | 8. backtrack(2)   | 2     | 2 | swap(2, 2)   | [2, 1, 3]   | Fix '3' at pos 2     |
+ * | 9. backtrack(3)   | 3     | - | Base case    | [2, 1, 3]   | SNAPSHOT: [2, 1, 3]  |
+ * | (Backtrack to 2)  | 2     | - | swap(2, 2)   | [2, 1, 3]   | Undo — no change     |
+ * | (Backtrack to 1)  | 1     | 2 | swap(2, 1)   | [2, 3, 1]   | Swap '3' into pos 1  |
+ * | 10. backtrack(2)  | 2     | 2 | swap(2, 2)   | [2, 3, 1]   | Fix '1' at pos 2     |
+ * | 11. backtrack(3)  | 3     | - | Base case    | [2, 3, 1]   | SNAPSHOT: [2, 3, 1]  |
+ * | (Backtrack to 2)  | 2     | - | swap(2, 2)   | [2, 3, 1]   | Undo — no change     |
+ * | (Backtrack to 1)  | 1     | - | swap(2, 1)   | [2, 1, 3]   | Undo — restore       |
+ * | (Backtrack to 0)  | 0     | - | swap(1, 0)   | [1, 2, 3]   | Undo — restore       |
+ * | (Backtrack to 0)  | 0     | 2 | swap(2, 0)   | [3, 2, 1]   | Swap '3' into pos 0  |
+ * | 12. backtrack(1)  | 1     | 1 | swap(1, 1)   | [3, 2, 1]   | Fix '2' at pos 1     |
+ * | 13. backtrack(2)  | 2     | 2 | swap(2, 2)   | [3, 2, 1]   | Fix '1' at pos 2     |
+ * | 14. backtrack(3)  | 3     | - | Base case    | [3, 2, 1]   | SNAPSHOT: [3, 2, 1]  |
+ * | (Backtrack to 2)  | 2     | - | swap(2, 2)   | [3, 2, 1]   | Undo — no change     |
+ * | (Backtrack to 1)  | 1     | 2 | swap(2, 1)   | [3, 1, 2]   | Swap '1' into pos 1  |
+ * | 15. backtrack(2)  | 2     | 2 | swap(2, 2)   | [3, 1, 2]   | Fix '2' at pos 2     |
+ * | 16. backtrack(3)  | 3     | - | Base case    | [3, 1, 2]   | SNAPSHOT: [3, 1, 2]  |
+ * | (Backtrack to 2)  | 2     | - | swap(2, 2)   | [3, 1, 2]   | Undo — no change     |
+ * | (Backtrack to 1)  | 1     | - | swap(2, 1)   | [3, 2, 1]   | Undo — restore       |
+ * | (Backtrack to 0)  | 0     | - | swap(2, 0)   | [1, 2, 3]   | Undo — restore       |
+ * |                   |       |   |              |             | DONE: 6 permutations |
  */
-
