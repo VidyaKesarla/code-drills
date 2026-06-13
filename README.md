@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1200-minimum-absolute-difference) |
 | [1219-path-with-maximum-gold](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1219-path-with-maximum-gold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1514-path-with-maximum-probability](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1514-path-with-maximum-probability) |
 | [1552-magnetic-force-between-two-balls](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 | [3481-apply-substitutions](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3481-apply-substitutions) |
 ## Matrix
@@ -592,11 +594,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0912-sort-an-array) |
 | [1054-distant-barcodes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1054-distant-barcodes) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1514-path-with-maximum-probability](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1514-path-with-maximum-probability) |
 ## Sorting
 |  |
 | ------- |
