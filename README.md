@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0886-possible-bipartition](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 | [3481-apply-substitutions](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3481-apply-substitutions) |
 ## Binary Tree
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0886-possible-bipartition](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0886-possible-bipartition](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0886-possible-bipartition) |
 | [1514-path-with-maximum-probability](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 | [3481-apply-substitutions](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3481-apply-substitutions) |
