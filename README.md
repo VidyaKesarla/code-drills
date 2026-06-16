@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1514-path-with-maximum-probability) |
 | [1552-magnetic-force-between-two-balls](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1552-magnetic-force-between-two-balls) |
+| [1584-min-cost-to-connect-all-points](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0886-possible-bipartition) |
+| [1584-min-cost-to-connect-all-points](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0886-possible-bipartition) |
 | [1514-path-with-maximum-probability](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 | [3481-apply-substitutions](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3481-apply-substitutions) |
 ## Matrix
@@ -774,4 +777,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0218-the-skyline-problem) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
