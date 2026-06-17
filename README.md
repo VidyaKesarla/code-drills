@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
 | [1054-distant-barcodes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1054-distant-barcodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3481-apply-substitutions](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3481-apply-substitutions) |
 ## String
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0886-possible-bipartition) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 | [3481-apply-substitutions](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3481-apply-substitutions) |
 ## Binary Tree
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Array
 |  |
 | ------- |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0994-rotting-oranges) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1971-find-if-path-exists-in-graph) |
 | [3481-apply-substitutions](https://github.com/VidyaKesarla/leetcodesolns/tree/master/3481-apply-substitutions) |
 ## Union-Find
