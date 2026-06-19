@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1200-minimum-absolute-difference) |
 | [1219-path-with-maximum-gold](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1219-path-with-maximum-gold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1472-design-browser-history](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1472-design-browser-history) |
 | [1514-path-with-maximum-probability](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1514-path-with-maximum-probability) |
 | [1552-magnetic-force-between-two-balls](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1584-min-cost-to-connect-all-points) |
@@ -713,10 +716,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0307-range-sum-query-mutable) |
 | [0901-online-stock-span](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
+| [1472-design-browser-history](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1472-design-browser-history) |
 ## Counting
 |  |
 | ------- |
@@ -749,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1472-design-browser-history) |
 ## Bucket Sort
 |  |
 | ------- |
