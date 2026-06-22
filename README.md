@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0474-ones-and-zeroes) |
+| [0642-design-search-autocomplete-system](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0642-design-search-autocomplete-system) |
 | [0680-valid-palindrome-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0547-number-of-provinces) |
+| [0642-design-search-autocomplete-system](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0642-design-search-autocomplete-system) |
 | [0684-redundant-connection](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0733-flood-fill) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0642-design-search-autocomplete-system](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0642-design-search-autocomplete-system) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0778-swim-in-rising-water) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0642-design-search-autocomplete-system](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0642-design-search-autocomplete-system) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0976-largest-perimeter-triangle) |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0208-implement-trie-prefix-tree) |
+| [0642-design-search-autocomplete-system](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0642-design-search-autocomplete-system) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Design
@@ -719,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0307-range-sum-query-mutable) |
+| [0642-design-search-autocomplete-system](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0642-design-search-autocomplete-system) |
 | [0901-online-stock-span](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0981-time-based-key-value-store) |
 | [1472-design-browser-history](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1472-design-browser-history) |
@@ -758,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0295-find-median-from-data-stream) |
+| [0642-design-search-autocomplete-system](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0642-design-search-autocomplete-system) |
 | [0901-online-stock-span](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1472-design-browser-history) |
 ## Bucket Sort
