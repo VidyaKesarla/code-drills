@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0271-encode-and-decode-strings) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0509-fibonacci-number) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0901-online-stock-span) |
