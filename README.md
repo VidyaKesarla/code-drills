@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0169-majority-element) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0224-basic-calculator) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0198-house-robber) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0113-path-sum-ii) |
+| [0140-word-break-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0357-count-numbers-with-unique-digits) |
 | [0489-robot-room-cleaner](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0489-robot-room-cleaner) |
 | [0494-target-sum](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0494-target-sum) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -696,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/VidyaKesarla/leetcodesolns/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search Tree
@@ -718,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0208-implement-trie-prefix-tree) |
 | [0642-design-search-autocomplete-system](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0642-design-search-autocomplete-system) |
 | [0692-top-k-frequent-words](https://github.com/VidyaKesarla/leetcodesolns/tree/master/0692-top-k-frequent-words) |
